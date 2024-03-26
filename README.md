@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">I'm Rajak D. from India!<br><br>- 🔭 I’m working as a student<br>- 📚 I'm currently learning Azure AI Servies<br>- ⚡ In my free time I lean new things</p>
+<p align="left">I'm Rajak D. from India!<br><br>- 🔭 I’m working as a student<br>- 📚 I'm currently learning Azure AI Servies<br>- ⚡ In my free time I learn new things</p>
 
 ###
 
